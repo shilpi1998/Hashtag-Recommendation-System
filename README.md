@@ -4,7 +4,7 @@
 
 This explains how the system has been implemented, and the decisions that were made during the process. It also shows any difficulties<br> that were encountered, and how they were dealt with.
 
-###Tools and Technologies
+###Tools and Technologies<br>
 The first decision to make when implementing the system was to decide upon the programming languages, technologies and libraries that<br> would be used.<br>
 Python 3.6 was chosen as the language of choice for the project. Python is a widely used high-level programming language whose syntax<br> emphasizes code readability and maintainability. Most importantly, it has a strong developer community behind it, resulting in a <br> large collection of excellent third-party libraries, including the following:<br>
  Tweepy supports accessing Twitter via Basic Authentication and the newer method, OAuth. Twitter has stopped accepting Basic<br> Authentication so OAuth is now the only way to use the Twitter API.<br>
