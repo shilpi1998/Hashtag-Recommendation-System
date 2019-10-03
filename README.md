@@ -2,7 +2,7 @@
 
 ##Implementation
 
-This explains how the system has been implemented, and the decisions that were made during the process. It also shows any difficulties<br> that were encountered, and how they were dealt with.
+This explains how the system has been implemented, and the decisions that were made during the process. It also shows any difficulties that were encountered, and how they were dealt with.<br>
 
 ###Tools and Technologies<br>
 The first decision to make when implementing the system was to decide upon the programming languages, technologies and libraries that<br> would be used.<br>
